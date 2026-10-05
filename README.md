@@ -45,4 +45,4 @@ payment methods, brands, mobile models, cities, and monthly trends.
 
 ## 👩‍💻 Author
 
-Rimjhim
+Rimjhim Mittal
